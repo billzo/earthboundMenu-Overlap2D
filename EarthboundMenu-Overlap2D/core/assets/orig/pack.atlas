@@ -1,0 +1,79 @@
+
+pack.png
+size: 3835,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banana
+  rotate: false
+  xy: 1585, 550
+  size: 1571, 414
+  split: 79, 89, 70, 75
+  pad: 0, 0, 0, 0
+  orig: 1571, 414
+  offset: 0, 0
+  index: -1
+earthboundwallpaperdownloadbymariomario1009-d5omr8y
+  rotate: false
+  xy: 3158, 464
+  size: 520, 500
+  orig: 520, 500
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 2, 18
+  size: 383, 105
+  orig: 383, 105
+  offset: 0, 0
+  index: -1
+mint
+  rotate: false
+  xy: 1585, 138
+  size: 1571, 410
+  split: 67, 56, 63, 60
+  pad: 0, 0, 0, 0
+  orig: 1571, 410
+  offset: 0, 0
+  index: -1
+outline
+  rotate: false
+  xy: 3158, 359
+  size: 383, 103
+  split: 6, 7, 7, 8
+  pad: 0, 382, 12, 15
+  orig: 383, 103
+  offset: 0, 0
+  index: -1
+peanut
+  rotate: false
+  xy: 2, 125
+  size: 1572, 417
+  split: 91, 84, 70, 78
+  pad: 0, 0, 0, 0
+  orig: 1572, 417
+  offset: 0, 0
+  index: -1
+pointer
+  rotate: false
+  xy: 2, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+rectangle
+  rotate: false
+  xy: 3680, 908
+  size: 155, 56
+  orig: 155, 56
+  offset: 0, 0
+  index: -1
+strawberry
+  rotate: false
+  xy: 2, 544
+  size: 1581, 420
+  split: 63, 66, 0, 0
+  pad: 0, 0, 0, 0
+  orig: 1581, 420
+  offset: 0, 0
+  index: -1
